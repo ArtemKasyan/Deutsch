@@ -157,6 +157,7 @@ html, body {
 }
 .container .container__paragraf .container__link .container__link__button {
   height: 80px;
+  border-radius: 10px;
   width: 140px;
   color: #383737;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
