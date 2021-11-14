@@ -127,6 +127,7 @@ html, body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  background: url("../img/background.png");
 }
 
 /* container */

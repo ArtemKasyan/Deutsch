@@ -127,6 +127,7 @@ html, body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  background: url("../img/background.png");
 }
 
 /* information and button */
@@ -147,15 +148,16 @@ html, body {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #383737;
-  padding-bottom: 30px;
+  color: #323432;
+  padding-bottom: 27px;
 }
 .information .information__paragraf .information__paragraf__text {
-  color: #707070;
+  color: #323432;
   letter-spacing: 1px;
 }
 .information .information__paragraf .information__paragraf__text .Deutsch {
   font-weight: bold;
+  font-size: 16px;
   color: #3d8637;
   font-family: "Poppins", sans-serif;
 }
@@ -177,6 +179,7 @@ html, body {
   color: #707070;
   letter-spacing: 2px;
   background-color: #f4f4f4;
+  border-radius: 15px;
 }
 .information .information__link .information__button:hover {
   background-color: #e5e5e5;
