@@ -154,10 +154,11 @@ html, body {
 .information .information__paragraf .information__paragraf__text {
   color: #323432;
   letter-spacing: 1px;
+  font-size: 16px;
 }
 .information .information__paragraf .information__paragraf__text .Deutsch {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 18px;
   color: #3d8637;
   font-family: "Poppins", sans-serif;
 }
