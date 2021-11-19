@@ -148,7 +148,7 @@ html, body {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #323432;
+  color: #000;
   padding-bottom: 27px;
 }
 .information .information__paragraf .information__paragraf__text {
@@ -185,6 +185,7 @@ html, body {
   background-color: #e5e5e5;
   -webkit-transition: 2s linear;
   transition: 2s linear;
+  border-radius: 15px;
 }
 
 /* information end. */

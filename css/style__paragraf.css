@@ -163,3 +163,6 @@ html, body {
   color: #383737;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+.container .container__paragraf .container__link .container__link__button:hover {
+  border-radius: 10px;
+}
